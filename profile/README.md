@@ -1,12 +1,16 @@
-## Hi there 👋
+<h1 align="center"> Witamy na TopBots! <br /><br />
+<img src="https://t726421.topbots.pl/static/metaname.jpg">
 
-<!--
+## Najlepsza lista Polskich botów na discordzie!
 
-**Here are some ideas to get you started:**
+TopBots to miejsce, gdzie znajdziesz najbardziej wartościowe i popularne boty, które wzbogacą Twoje doświadczenie na Discordzie. Jesteśmy społecznością, która dąży do zebrania w jednym miejscu najlepszych polskich botów, zapewniając użytkownikom łatwy dostęp do narzędzi i funkcji, które mogą poprawić interakcje i zarządzanie serwerami.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Zgłoś nowego bota!
+Jeżeli znasz bota, który działa na ponad 500 serwerach, podziel się tą informacją z nami! Dołącz do naszego Discorda i zgłoś bota, aby mógł zostać dodany do naszej listy. Dzięki Twojej pomocy możemy stale aktualizować naszą bazę i dostarczać użytkownikom najlepsze dostępne rozwiązania.
+
+### Dołącz do nas i odkryj najlepsze boty, które zmienią Twój serwer na lepsze!
+
+[Dołącz do naszego Discorda! (wkrótce)](#)
+
+### Pełną listę znajdziesz na naszej stronie internetowej:
+[TopBots.pl](https://topbots.pl)
