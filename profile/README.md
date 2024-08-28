@@ -1,5 +1,5 @@
 <h1 align="center"> Witamy na TopBots! <br /><br />
-<img src="https://t726421.topbots.pl/static/metaname.jpg">
+<img src="https://topbots.pl/static/metaname.png">
 
 ## Najlepsza lista Polskich botów na discordzie!
 
